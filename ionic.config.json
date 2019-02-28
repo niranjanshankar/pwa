@@ -1,0 +1,7 @@
+{
+  "name": "pwamobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
