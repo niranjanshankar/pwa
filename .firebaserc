@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "pwa-ionic-c51d1",
+    "default": "pwa-ionic-c51d1",
+    "demo": "pwa-ionic-c51d1"
+  }
+}
